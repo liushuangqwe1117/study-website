@@ -1,3 +1,4 @@
 http://www.liaoxuefeng.com
 http://git.oschina.net/progit/
 https://git-scm.com/doc/
+https://git-scm.com/book/zh/v2
